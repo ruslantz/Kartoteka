@@ -1,8 +1,9 @@
-const CACHE_NAME = "kartoteka-games-v1";
+const CACHE_NAME = "kartoteka-games-v2";
 
 const APP_SHELL = [
   "./",
   "./index.html",
+  "./games-data.js",
   "./manifest.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
